@@ -19,20 +19,20 @@ I build and optimize computer hardware and software systems, from mathematical m
 ### Hardware, Embedded Systems & Control
 
 - [**Digital Pattern Detection System**](https://github.com/Bashitha07/Digital-Pattern-Detector) — Synchronous `0011` sequence detector combining a 4-bit maximal-length LFSR, PISO shift register, and 4-state Mealy FSM. Verified in Proteus with a 2-layer KiCad PCB.
-- [**Ball-on-Beam Position Control System**](https://github.com/Bashitha07/Ball-on-Beam-PID-Control) — Real-time closed-loop PID stabilization using an ESP32, VL53L0X ToF sensor, and MG996R servo; modeled and tuned in MATLAB/Simulink.
+- **Ball-on-Beam Position Control System** — Private ESP32-based closed-loop PID stabilization project using a VL53L0X ToF sensor and MG996R servo, modeled and tuned in MATLAB/Simulink.
 - [**BCD Arithmetic Mini-Processor**](https://github.com/Bashitha07/BCD-Arithmetic-Mini-Processor) — 4-bit processor implementing BCD addition, subtraction, and multiplication with combinational and sequential logic.
 - [**Multi-Stage Analog Signal Conditioner**](https://github.com/Bashitha07/Multi-Stage-Analog-Signal-Conditioner) — Precision amplification, active filtering, and level shifting for sensor-interface applications.
+- [**ESP32 PID DC Motor Control**](https://github.com/Bashitha07/ESP32-PID-DC-Motor-Control) — Closed-loop DC motor speed control using ESP32, an L298N driver, encoder feedback, and discrete PID algorithms.
+- [**Digital 2-Digit Thermometer**](https://github.com/Bashitha07/Digital-2-Digit-Thermometer) — Digital temperature measurement with an analog sensor and 2-digit 7-segment display.
 - **Smart Traffic Junction Controller** — ATmega328P controller written in AVR Assembly, featuring an 8-state FSM, interrupt-driven pedestrian crossing, ADC-based night mode, and automatic flashing.
-- **ESP32 PID DC Motor Control** — Closed-loop speed and position control using rotary encoder feedback and discrete PID algorithms.
-- **Digital 2-Digit Thermometer** — Digital temperature measurement with an analog sensor and 2-digit 7-segment display.
 
 ### Systems, Networking & Software
 
 - [**Enterprise Network Design**](https://github.com/Bashitha07/Network-Design-Group-Project) — Multi-subnet enterprise topology with VLAN segmentation, dynamic routing, DHCP/DNS, and security ACLs.
+- [**Parallel Processing & Multiprocessor Architectures**](https://github.com/Bashitha07/Design-and-Performance-Analysis-of-Parallel-Processing-and-Multiprocessor-Architectures) — Python-based analysis and simulation suite covering CPU scheduling, bus contention, cache coherence, and multiprocessor performance.
 - [**BMS Restaurant Management System**](https://github.com/Bashitha07/BMS-Restaurant-System) — Java Spring Boot restaurant operations, order processing, and billing system with a normalized relational database.
 - [**Automated Grocery Management System (Pantry+)**](https://github.com/Bashitha07/Automated-Grocery-Management-System) — IoT inventory tracking, POS billing, and low-stock/expiry alerts.
-- **Parallel Processing & Multiprocessor Architectures** — Analysis of parallel execution models, memory hierarchy, cache coherence, and speedup trade-offs.
-- **Yahtzee Game in C** — CLI game with state tracking and automated score validation.
+- **Yahtzee Game in C** — Private two-player CLI game with strategic computer AI, state tracking, and automated score validation.
 
 ## Certifications
 
