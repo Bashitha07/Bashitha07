@@ -38,7 +38,7 @@ July 2024 – September 2028 (expected)
 - [**Enterprise Network Design**](https://github.com/Bashitha07/Network-Design-Group-Project) — Multi-subnet enterprise topology with VLAN segmentation, dynamic routing, DHCP/DNS, and security ACLs.
 - [**Parallel Processing & Multiprocessor Architecture Analysis**](https://github.com/Bashitha07/Design-and-Performance-Analysis-of-Parallel-Processing-and-Multiprocessor-Architectures) — Analysis of parallel execution models, memory-hierarchy bottlenecks, cache coherence, and multiprocessor speedup trade-offs.
 - [**BMS Restaurant Management System**](https://github.com/Bashitha07/BMS-Restaurant-System) — Java Spring Boot order-processing and billing system backed by a normalized relational database.
-- **Yahtzee Game in C** — C implementation featuring structured programming, game-state tracking, and automated score validation.
+- [**Yahtzee Game in C**](https://github.com/Bashitha07/Yahtzee-Game-Implementation-in-C) — C implementation featuring structured programming, game-state tracking, and automated score validation.
 
 ## Certifications
 
