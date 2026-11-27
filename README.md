@@ -47,7 +47,7 @@ July 2024 – September 2028 (expected)
 
 ## Contact
 
-- **Location:** Colombo, Sri Lanka
+- **Location:** Piliyandala, Colombo
 - **Email:** [bashithasellapperuma07@gmail.com](mailto:bashithasellapperuma07@gmail.com)
 - **LinkedIn:** [Bashitha Sellapperuma](https://www.linkedin.com/in/bashitha-sellapperuma)
 - **GitHub:** [Bashitha07](https://github.com/Bashitha07)
