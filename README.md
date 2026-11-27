@@ -22,7 +22,7 @@ July 2024 – September 2028 (expected)
 
 ## Featured Projects
 
-### Hardware, Embedded Systems & Control
+### Hardware, Embedded Systems, Control & IoT
 
 - [**Digital Pattern Detection System**](https://github.com/Bashitha07/Digital-Pattern-Detector) — Synchronous `0011` sequence detector combining a 4-bit maximal-length LFSR pattern generator, PISO shift register, and 4-state Mealy FSM. Verified in Proteus; designed a two-layer through-hole PCB in KiCad.
 - [**Ball-on-Beam Position Control System**](https://github.com/Bashitha07/Ball-on-Beam-PID-Control) — ESP32-based closed-loop PID prototype using a VL53L0X time-of-flight sensor and MG996R servo. Modelled in MATLAB/Simulink and implemented with discrete-time PID firmware.
@@ -31,13 +31,13 @@ July 2024 – September 2028 (expected)
 - [**ESP32 PID DC Motor Control**](https://github.com/Bashitha07/ESP32-PID-DC-Motor-Control) — Closed-loop motor speed and position control on ESP32 using rotary-encoder feedback and tuned PID algorithms.
 - [**Digital 2-Digit Thermometer**](https://github.com/Bashitha07/Digital-2-Digit-Thermometer) — Temperature measurement system driving a 2-digit 7-segment display from an analog sensor.
 - [**Smart Traffic Junction Controller**](https://github.com/Bashitha07/Smart-Traffic-Junction-Controller) — ATmega328P intersection controller written in AVR Assembly, featuring an 8-state FSM, interrupt-driven pedestrian crossing with countdown, and ADC-based night mode with hysteresis.
+- [**Automated Grocery Management System**](https://github.com/Bashitha07/Automated-Grocery-Management-System) — IoT project integrating hardware-assisted inventory tracking with software for billing and stock alerts.
 
 ### Systems, Networking & Software
 
 - [**Enterprise Network Design**](https://github.com/Bashitha07/Network-Design-Group-Project) — Multi-subnet enterprise topology with VLAN segmentation, dynamic routing, DHCP/DNS, and security ACLs.
 - [**Parallel Processing & Multiprocessor Architecture Analysis**](https://github.com/Bashitha07/Design-and-Performance-Analysis-of-Parallel-Processing-and-Multiprocessor-Architectures) — Analysis of parallel execution models, memory-hierarchy bottlenecks, cache coherence, and multiprocessor speedup trade-offs.
 - [**BMS Restaurant Management System**](https://github.com/Bashitha07/BMS-Restaurant-System) — Java Spring Boot order-processing and billing system backed by a normalized relational database.
-- [**Automated Grocery Management System**](https://github.com/Bashitha07/Automated-Grocery-Management-System) — IoT-based inventory tracking, billing, and stock alerts.
 - **Yahtzee Game in C** — C implementation featuring structured programming, game-state tracking, and automated score validation.
 
 ## Certifications
